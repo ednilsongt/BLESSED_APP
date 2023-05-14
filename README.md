@@ -1,5 +1,4 @@
 <h1 style="color: RED; text-align: center;">BLESSED COMPANY</h1>
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Fondo animado</title>
@@ -22,7 +21,6 @@
                     < 
  <center><a href="https://download2266.mediafire.com/1spy8tk8q4pgYc8xWjCq-aSfihAQDg37ozQQCWtGL2ilBFpdhycHhyFmCS5i44yFdw1svAsAcRui2DqAshLe3RFh8v9FWRAXrdMV0QJO6mATxRVcurD4oEzaVcQ8U0xVRcbm9RcOz7eLrkzLveSVISPFXBIYommms3i8bjTx-UsRRg/z4w50zfiaaz8maw/Blessed+v5.apk" download>Descargar archivo</a></center>
 
-</a>
 	<h1></h1>
 	<p></p>
 </body>
